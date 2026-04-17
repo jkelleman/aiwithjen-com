@@ -434,9 +434,10 @@ td strong {
 /* --- Featured cards (home page) --- */
 .featured-cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 2rem;
   margin: 2rem 0;
+  max-width: 560px;
 }
 
 .featured-card {
@@ -454,7 +455,7 @@ td strong {
 
 .featured-card .card-img {
   width: 100%;
-  height: 180px;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   display: block;
 }
