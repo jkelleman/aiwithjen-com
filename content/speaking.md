@@ -26,7 +26,9 @@ Modern AI systems appear intelligent until they're asked to operate inside real 
 ### Judgment Is the Last Mile
 *Designing AI systems for decisions humans are accountable for*
 
-AI doesn't own outcomes — humans do. Yet most AI systems are designed as if producing an answer is the finish line. This session focuses on the decision layer: decision checkpoints, structured options instead of raw output, traceable assumptions, and escalation paths. We'll treat governance as a UX problem — not a policy document.
+AI doesn't own outcomes — humans do. Yet most AI systems are designed as if producing an answer is the finish line. This session focuses on the decision layer: decision checkpoints, structured options instead of raw output, traceable assumptions, and escalation paths. We'll treat governance as a UX problem.
+
+**You'll walk away with:** A framework for designing decision points into AI workflows, concrete patterns for preserving human accountability without slowing teams down, and a new way to evaluate whether your AI system is actually helping people decide or just generating output.
 
 **Best for:** Leadership forums, Responsible AI events, engineering management conferences
 
@@ -35,7 +37,7 @@ AI doesn't own outcomes — humans do. Yet most AI systems are designed as if pr
 ### AI Made Us Faster. So Why Are We Slower?
 *The hidden coordination tax of AI at scale*
 
-AI increases output — but many organizations feel more chaotic, not more aligned. This talk exposes the hidden coordination tax: how speed without clarity amplifies noise, decision fatigue, and semantic drift. You'll leave with patterns that restore leverage: constrained generation, embedded decision rights, and knowledge governance that prevents entropy.
+AI increases output, but many organizations feel more chaotic, not more aligned. This talk exposes the hidden coordination tax: how speed without clarity amplifies noise, decision fatigue, and semantic drift. You'll leave with patterns that restore leverage: constrained generation, embedded decision rights, and knowledge governance that prevents entropy.
 
 **Best for:** Flagship conferences, strategy offsites, closing keynotes
 
@@ -53,7 +55,7 @@ Most AI systems optimize for "answer delivery." But humans don't become better t
 ### Clarity Is Infrastructure *(Workshop)*
 *Designing AI (and teams) that think before they speak*
 
-A hands-on workshop where participants apply content design principles to real data and AI products. From naming conventions to error message writing to semantic model design — participants leave with a framework for evaluating and improving the clarity of any data product.
+A hands-on workshop where participants apply content design principles to real data and AI products. From naming conventions to error message writing to semantic model design, participants leave with a framework for evaluating and improving the clarity of any data product.
 
 **Format:** 90 minutes, interactive, up to 30 participants
 
@@ -63,16 +65,15 @@ A hands-on workshop where participants apply content design principles to real d
 
 | Event | Role | Location |
 |-------|------|----------|
-| **ODSC East** | Speaker — Open Data Science Conference | Boston |
-| **Microsoft × Red Bull Startup Innovation Labs** | Panelist — AI and startup innovation (alongside AMD, WHOOP, Terawatt Energy, Northeastern) | Microsoft NERD Center, Boston |
+| **[ODSC East](https://odsc.com/boston/)** | Speaker, Open Data Science Conference | Boston |
+| **[Microsoft × Red Bull Startup Innovation Labs](https://www.redbull.com/us-en/redbullbasement)** | Panelist, AI and startup innovation (alongside AMD, WHOOP, Terawatt Energy, Northeastern) | Microsoft NERD Center, Boston |
 | **Microsoft Design Week** | Presenter | Microsoft (internal) |
-| **24xAI AI Conference-a-thon** | 16 submission-ready abstracts (upcoming April 2026) | Microsoft (internal) |
-| **Boston University × Data Science AI Hackathon** | Speaker & mentor | Boston University |
-| **PyLadies Boston** | Workshop leader — How to Use GitHub, Git Control, and VS Code | Boston |
-| **Massachusetts AI Hub Hackathon** | Mentor & author — wrote blog article + facilitation script that made the event repeatable | Boston |
+| **[Boston University × Data Science AI Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Speaker & mentor | Boston University |
+| **[PyLadies Boston](https://pyladies.com/)** | Workshop leader, How to Use GitHub, Git Control, and VS Code | Boston |
+| **Massachusetts AI Hub Hackathon** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
 | **Boston Launch Event** | Microsoft Design + AI representative | Boston |
-| **Microsoft Global Hackathon (2022–2025)** | Organizer / mentor / judge — 3× executive awards, multi-year | Virtual |
-| **BU DS+X Hackathon** | Mentor & judge | Boston University |
+| **Microsoft Global Hackathon (2022–2025)** | Organizer / mentor / judge, 3× executive awards, multi-year | Virtual |
+| **[BU DS+X Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Mentor & judge | Boston University |
 
 ---
 

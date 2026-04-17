@@ -1,0 +1,18 @@
+<aside class="floating-cta" id="floatingCta" aria-label="Get in touch">
+  <a href="/contact/" class="floating-cta-link">Get in touch →</a>
+  <a href="https://calendly.com/aiwithjen" class="floating-cta-secondary" target="_blank" rel="noopener">Book 30 min</a>
+</aside>
+<script>
+  (function() {
+    var cta = document.getElementById('floatingCta');
+    if (!cta) return;
+    window.addEventListener('scroll', function() {
+      var scrolled = window.scrollY / (document.body.scrollHeight - window.innerHeight);
+      if (scrolled > 0.3) {
+        cta.classList.add('visible');
+      } else {
+        cta.classList.remove('visible');
+      }
+    });
+  })();
+</script>

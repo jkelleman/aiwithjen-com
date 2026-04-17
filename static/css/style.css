@@ -434,7 +434,7 @@ td strong {
 /* --- Featured cards (home page) --- */
 .featured-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   margin: 2rem 0;
 }
@@ -861,4 +861,67 @@ td strong {
   h1 { font-size: 1.8rem; }
   .hero-headline { font-size: 2rem; }
   .page-title { font-size: 1.7rem; }
+}
+
+/* --- Floating CTA --- */
+.floating-cta {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 100;
+}
+
+.floating-cta.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.floating-cta-link {
+  display: inline-block;
+  background: var(--color-accent);
+  color: var(--color-white);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  text-decoration: none;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.floating-cta-link:hover {
+  background: var(--color-accent-dark);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
+}
+
+.floating-cta-secondary {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  text-align: center;
+  padding: 0.25rem 0;
+}
+
+.floating-cta-secondary:hover {
+  color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .floating-cta {
+    right: 1rem;
+    bottom: 1rem;
+  }
 }

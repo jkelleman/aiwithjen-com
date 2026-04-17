@@ -65,6 +65,6 @@ Writing on AI trust, semantic design, terminology governance, and what it means 
 
 > "We need to ask ourselves not only what computers can do, but what computers should do."
 >
-> **— Satya Nadella**, Microsoft Build keynote ([Seattle Times, 2018](https://www.seattletimes.com/business/microsoft/microsoft-build-data-privacy-must-be-protected-ceo-satya-nadella-tells-technologists/))
+> **— Satya Nadella**, Microsoft Build keynote ([Seattle Times](https://www.seattletimes.com/business/microsoft/microsoft-build-data-privacy-must-be-protected-ceo-satya-nadella-tells-technologists/))
 
 [Work with me →](/work-with-me/)  ·  [Book Jen to speak →](/contact/)
