@@ -435,9 +435,9 @@ td strong {
 .featured-cards {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 2rem;
+  gap: 1.5rem;
   margin: 2rem 0;
-  max-width: 560px;
+  max-width: 480px;
 }
 
 .featured-card {
@@ -445,6 +445,8 @@ td strong {
   border: 1px solid var(--color-border);
   border-radius: 12px;
   overflow: hidden;
+  display: grid;
+  grid-template-columns: 140px 1fr;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -454,8 +456,8 @@ td strong {
 }
 
 .featured-card .card-img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
+  width: 140px;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
