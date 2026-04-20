@@ -20,7 +20,7 @@ Keynotes, panels, and workshops on AI systems design, content infrastructure, an
 
 ### Teaching
 
-University courses and professional workshops at the intersection of content design and data engineering. My flagship course, *Full-Stack Clarity*, is pitched for Fall 2026.
+University courses and professional workshops at the intersection of content design and data engineering. My flagship course, *Full-Stack Data Clarity*, is pitched for Fall 2026.
 
 [See the course →](/courses/)
 

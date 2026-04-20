@@ -14,7 +14,11 @@ Whether it's a keynote, panel, or hands-on workshop, I bring real stories from d
 
 ## Upcoming
 
-*New events announcing soon.* [Get in touch](/contact/) if you'd like me at yours.
+New events announcing soon. If you'd like me at yours:
+
+<p style="margin-top: 1.5rem; text-align: center;">
+  <a href="/contact/" class="btn">Get in touch →</a>
+</p>
 
 ---
 

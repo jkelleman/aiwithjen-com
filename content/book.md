@@ -1,10 +1,10 @@
 ---
 title: "Book"
-description: "Full-Stack Clarity — a book about content design for data infrastructure. Coming soon."
+description: "Full-Stack Data Clarity — a book about content design for data infrastructure. Coming soon."
 layout: "single"
 ---
 
-## Full-Stack Clarity
+## Full-Stack Data Clarity
 
 ### Why the Most Important Line of Code Is the One That Explains What It Does
 
@@ -26,7 +26,7 @@ Data teams build pipelines. Content designers write the words. But the fastest-g
 
 This book argues that content design and data engineering are the same discipline at different layers of abstraction. The glossary is a semantic model. The error message is a decision framework. The column name is a vocabulary decision. And the documentation layer isn't downstream of infrastructure — it *is* infrastructure.
 
-Drawing from years of designing the language layer of Microsoft's data platform, mentoring builders at hackathons, and teaching at the intersection of content and data, *Full-Stack Clarity* gives practitioners a framework for designing meaning into data systems — not as an afterthought, but as a core engineering practice.
+Drawing from years of designing the language layer of Microsoft's data platform, mentoring builders at hackathons, and teaching at the intersection of content and data, *Full-Stack Data Clarity* gives practitioners a framework for designing meaning into data systems — not as an afterthought, but as a core engineering practice.
 
 ---
 
@@ -49,7 +49,7 @@ Drawing from years of designing the language layer of Microsoft's data platform,
 5. **Metrics, Measures, and Meaning** — Why "what is an active user?" is a content design problem
 6. **Writing for Machines** — Metadata, AI agents, and content design for non-human audiences
 7. **The Data Product Audit** — A framework for evaluating any data product's content layer
-8. **Full-Stack Clarity** — Tracing a concept from raw data to user understanding, end to end
+8. **Full-Stack Data Clarity** — Tracing a concept from raw data to user understanding, end to end
 
 ---
 

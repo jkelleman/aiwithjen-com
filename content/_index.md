@@ -10,7 +10,7 @@ ML/AI data engineer. Speaker. Educator. I help teams turn complex data systems i
 
 I'm a Principal Content Designer at Microsoft, where I own the content design for Fabric Data Engineering. I also teach, speak, and write about what happens when you treat clarity as infrastructure.
 
-*Currently: preparing for ODSC East and writing Chapter 1 of Full-Stack Clarity.*
+*Currently: preparing for ODSC East and writing Chapter 1 of Full-Stack Data Clarity.*
 
 ---
 

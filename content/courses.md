@@ -1,6 +1,6 @@
 ---
 title: "Online Courses"
-description: "Full-Stack Clarity and other courses from Jen Kelleman on content design, data engineering, and AI systems."
+description: "Full-Stack Data Clarity and other courses from Jen Kelleman on content design, data engineering, and AI systems."
 layout: "single"
 ---
 
@@ -16,7 +16,7 @@ layout: "single"
 
 ## Featured Course
 
-### Full-Stack Clarity: Content Design Meets Data Engineering
+### Full-Stack Data Clarity: Content Design Meets Data Engineering
 
 **Format:** 14-week university course (also available as 8-week intensive)
 **Prerequisites:** None technical — structured thinking and curiosity required
@@ -87,13 +87,22 @@ A systematic framework for evaluating any data product's content layer: naming, 
 
 ## For universities and organizations
 
-I'm actively looking for university partners to offer *Full-Stack Clarity* as a fall semester course or continuing education program. If you run a program in data science, information science, HCI, digital media, or business analytics — [let's talk](/contact/).
+AI is changing what data literacy means. Students entering data science, analytics, and HCI programs need more than SQL and Python — they need to understand how AI systems consume, interpret, and fail on the content layer of data products. Full-Stack Data Clarity teaches that discipline: how to design terminology, documentation, and semantic structures that are legible to both humans and machines.
+
+If you run a program in data science, information science, HCI, digital media, or business analytics, this course fills a gap no existing curriculum covers — the intersection of content design, data engineering, and AI system evaluation.
 
 I also offer custom corporate workshops tailored to your team's data products and terminology challenges.
+
+<p style="margin-top: 2rem; text-align: center;">
+  <a href="/contact/" class="btn">Let's talk →</a>
+</p>
 
 ---
 
 ## The book behind the course
 
-The ideas in this course are becoming a book: *Full-Stack Clarity: Why the Most Important Line of Code Is the One That Explains What It Does.*<br>
-[Learn more about the book →](/book/)
+The ideas in this course are becoming a book: Full-Stack Data Clarity: Why the Most Important Line of Code Is the One That Explains What It Does.
+
+<p style="margin-top: 1.5rem; text-align: center;">
+  <a href="/book/" class="btn">Learn more about the book →</a>
+</p>

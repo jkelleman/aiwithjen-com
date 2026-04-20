@@ -30,11 +30,11 @@ At Microsoft, I own that for Fabric Data Engineering. I write the terminology go
 >
 > **— Satya Nadella**, Microsoft CEO
 
-- **The documentation layer is infrastructure.** If your docs are wrong, your data product is wrong.
-- **Schema is language design.** Every table name, column name, and relationship is a vocabulary decision.
-- **Clarity isn't polish — it's discipline.** The most important line of code in any data pipeline is the one that explains what it does.
-- **AI systems fail at meaning before they fail at reasoning.** Most hallucinations are semantic design bugs, not model problems.
-- **The best systems teach, not just answer.** Scaffolding beats output delivery.
+- **AI systems fail at meaning before they fail at reasoning.** Most hallucinations are semantic design bugs, not model problems. Fix the terminology layer and you fix half the failures.
+- **Schema is language design — and language is what AI consumes.** Every table name, column name, and relationship is a vocabulary decision that shapes what models can learn and what they get wrong.
+- **Content that isn't accessible to AI isn't accessible.** If your documentation can't be parsed, grounded, and evaluated by an AI system, it's not documentation — it's debt. Making content AI-accessible means structured metadata, explicit semantics, and evaluative rubrics that let both humans and models assess quality.
+- **Clarity isn't polish — it's discipline.** The most important line of code in any data pipeline is the one that explains what it does. That line is now the one the model reads first.
+- **The best systems teach, not just answer.** Scaffolding beats output delivery. AI that builds user skill over time outperforms AI that just generates answers.
 
 ---
 
@@ -51,7 +51,7 @@ At Microsoft, I own that for Fabric Data Engineering. I write the terminology go
 - **Stringweaver** — LLM governance framework for voice consistency at scale
 - **"AI or Me?" delegation framework** — systematic AI task delegation, built in a 2-hour hackathon sprint
 - **Clarity Delta** — evaluation metric for measuring AI output quality through a content design lens
-- **Full-Stack Clarity** — a university course framework teaching the intersection of content design and data engineering
+- **Full-Stack Data Clarity** — a university course framework teaching the intersection of content design and data engineering
 
 **Hackathon Projects**
 - **VibeHub** — co-led a platform for democratizing UX engineering; 2,000+ projects in production, organic adoption across the design org
@@ -129,13 +129,12 @@ At Microsoft, I own that for Fabric Data Engineering. I write the terminology go
 
 ---
 
-## Beyond Microsoft
+## Boston tech community
 
-<img src="/img/fabcon-europe.jpg" alt="European Microsoft Fabric Community Conference — Stockholm 2024" class="full-width-img">
+I'm an active member of the Boston data and AI community:
 
-- **Mentor** — Global Hackathon (3× executive awards), MA AI Hub, BU DS+X, Red Bull Basement
-- **Educator** — developing university curriculum at the content-data intersection
-- **Writer** — 9 published articles on [Medium](https://jenkelleman.medium.com) covering AI systems design, semantic layers, data architecture, and the role of content designers in building responsible AI
+- **[Boston PyLadies](https://pyladies.com/)** — member and workshop leader
+- **[Boston PyData](https://pydata.org/)** — member and speaker
 
 [See where I've spoken →](/speaking/)
 
