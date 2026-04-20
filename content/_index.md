@@ -1,12 +1,12 @@
 ---
 title: "AI with Jen"
-description: "Jen Kelleman — Content designer, speaker, educator. I design the language layer of data infrastructure."
+description: "Jen Kelleman — ML/AI data engineer, speaker, educator. I design the language layer of data infrastructure."
 layout: "home"
 ---
 
 ## I design the language layer of data infrastructure.
 
-Content designer. Speaker. Educator. I help teams turn complex data systems into things people can actually understand — and AI systems into things people can actually trust.
+ML/AI data engineer. Speaker. Educator. I help teams turn complex data systems into things people can actually understand — and AI systems into things people can actually trust.
 
 I'm a Principal Content Designer at Microsoft, where I own the content design for Fabric Data Engineering. I also teach, speak, and write about what happens when you treat clarity as infrastructure.
 

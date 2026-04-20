@@ -1,6 +1,6 @@
 ---
 title: "About Jen"
-description: "ML/AI data engineer, data systems thinker, and educator working at the intersection of language and data infrastructure."
+description: "ML/AI data engineer, speaker, educator. I design the language layer of data infrastructure."
 layout: "single"
 ---
 
