@@ -116,7 +116,7 @@ Many of these talks started as articles. Read the thinking behind the talks on [
 
 Ready to have me at your event?
 
-[Book 30 min with Jen →](https://calendly.com/aiwithjen) · [Email me →](mailto:jen@aiwithjen.com)
+[Book 30 min with Jen →](https://calendly.com/ai-with-jen/connect) · [Email me →](mailto:jen@aiwithjen.com)
 
 I'll respond within 2 business days with availability and any questions about format, audience, or topic customization.
 

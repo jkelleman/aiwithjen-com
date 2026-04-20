@@ -47,19 +47,12 @@ At Microsoft, I design that alignment for real. I build terminology governance s
 - **KB audit and restructure** — 117 → 66 files, full quality governance model
 - **Content + AI Operating Model** — a 3-layer system (Explore → Iterate → Scale) turning content strategy into shared infrastructure
 - **VibeHub** — co-led a platform for democratizing UX engineering; 2,000+ projects in production, organic adoption across the design org
-- **5+ hackathon projects** — Deaf-Led Sign Language Experiences (3 workstreams, executive award continuation), FlareIQ smart ring + AI Copilot, EduGrant Agent, and more
-- **Full-Stack Clarity** — a university course framework teaching the intersection of content design and data engineering
-
----
-
-## Frameworks I've created
-
 - **Promptcraft** — prompt engineering workshop delivered to ~50 designers
 - **Stringweaver** — LLM governance framework for voice consistency at scale
-- **Content + AI Operating Model** — Explore → Iterate → Scale system for turning content strategy into shared infrastructure
 - **"AI or Me?" delegation framework** — systematic AI task delegation, built in a 2-hour hackathon sprint
-- **AI-First Design Review** — governance model for surfacing AI influence in design specs
 - **Clarity Delta** — evaluation metric for measuring AI output quality through a content design lens
+- **Full-Stack Clarity** — a university course framework teaching the intersection of content design and data engineering
+- **5+ hackathon projects** — Deaf-Led Sign Language Experiences (3 workstreams, executive award continuation), FlareIQ smart ring + AI Copilot, EduGrant Agent, and more
 
 ---
 
@@ -135,11 +128,11 @@ At Microsoft, I design that alignment for real. I build terminology governance s
 
 <img src="/img/fabcon-europe.jpg" alt="European Microsoft Fabric Community Conference — Stockholm 2024" class="full-width-img">
 
-- **Speaker** — ODSC East, Microsoft × Red Bull Startup Innovation Labs, Microsoft Design Week, Boston University Data Science AI Hackathon, PyLadies Boston, Massachusetts AI Hub
-- **Panelist** — alongside leaders from AMD, WHOOP, Terawatt Energy, and Northeastern University
 - **Mentor** — Global Hackathon (3× executive awards), MA AI Hub, BU DS+X, Red Bull Basement
 - **Educator** — developing university curriculum at the content-data intersection
 - **Writer** — 9 published articles on [Medium](https://jenkelleman.medium.com) covering AI systems design, semantic layers, data architecture, and the role of content designers in building responsible AI
+
+[See where I've spoken →](/speaking/)
 
 ---
 
@@ -148,9 +141,3 @@ At Microsoft, I design that alignment for real. I build terminology governance s
 I'm always interested in speaking opportunities, teaching partnerships, and conversations about the space between content and data.
 
 [Work with me →](/work-with-me/) · [Book me to speak →](/contact/) · [LinkedIn](https://linkedin.com/in/jenkelleman)
-
----
-
-## What others say
-
-[Read testimonials from colleagues, collaborators, and event organizers →](/testimonials/)

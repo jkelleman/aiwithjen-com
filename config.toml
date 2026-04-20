@@ -52,10 +52,6 @@ title = "AI with Jen — Content Design Meets Data Infrastructure"
     url = "/articles/"
     weight = 6
   [[menu.footer]]
-    name = "Testimonials"
-    url = "/testimonials/"
-    weight = 7
-  [[menu.footer]]
     name = "Contact"
     url = "/contact/"
     weight = 8

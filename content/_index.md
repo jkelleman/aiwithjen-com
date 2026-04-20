@@ -20,7 +20,7 @@ I'm a Principal Content Designer at Microsoft, where I own the content design fo
 <img src="/img/speaking.jpg" alt="Jen Kelleman speaking at Microsoft × Red Bull Startup Innovation Labs" class="card-img">
 
 #### [Speaking](/speaking/)
-Talks on AI systems design, semantic infrastructure, and the hidden coordination tax of AI at scale. Recent stages include Microsoft × Red Bull Startup Innovation Labs, Boston University, and PyLadies Boston.
+Talks on AI systems design, semantic infrastructure, and the hidden coordination tax of AI at scale.
 </div>
 
 <div class="featured-card">
@@ -38,28 +38,6 @@ Writing on AI trust, semantic design, terminology governance, and what it means 
 </div>
 
 </div>
-
----
-
-### Recent speaking
-
-- **Microsoft × Red Bull Startup Innovation Labs** — Panelist, Microsoft NERD Center, Boston
-- **ODSC East** — Speaker, Open Data Science Conference
-- **Boston University × Data Science AI Hackathon** — Speaker & mentor
-- **PyLadies Boston** — Workshop: How to Use GitHub, Git Control, and VS Code
-- **Microsoft Design Week** — Presenter
-- **Massachusetts AI Hub Hackathon** — Mentor & author
-
----
-
-### Credibility
-
-- **Microsoft** — Principal Content Designer, Fabric Data Engineering
-- **3× Microsoft Global Hackathon executive awards**
-- **9 published articles** on [Medium](https://jenkelleman.medium.com)
-- **EZRA Executive Coaching** participant
-- **Azure Data Engineer Associate** certification (in progress)
-- Panelist alongside leaders from **AMD**, **WHOOP**, **Terawatt Energy**, and **Northeastern University**
 
 ---
 

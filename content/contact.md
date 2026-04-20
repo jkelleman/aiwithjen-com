@@ -10,22 +10,9 @@ Whether it's a speaking inquiry, a course partnership, a consulting engagement, 
 
 ---
 
-### What can I help with?
-
-- **Speaking** — Book me for a keynote, panel, or workshop
-- **Courses** — Bring Full-Stack Clarity to your university or organization
-- **Consulting** — Terminology audits, naming system design, data product content strategy
-- **Advising** — Ongoing advisory for content design teams expanding into data
-- **Media** — Interviews, podcasts, guest articles
-- **Other** — Something else? I'm listening.
-
----
-
 ### Reach me
 
-[Book 30 min with Jen →](https://calendly.com/aiwithjen)
-
-<!-- TODO: Replace with contact form (Hugo form handler, Formspree, or Netlify Forms) -->
+[Book 30 min with Jen →](https://calendly.com/ai-with-jen/connect)
 
 **Email:** [jen@aiwithjen.com](mailto:jen@aiwithjen.com)
 
