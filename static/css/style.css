@@ -12,17 +12,17 @@
 }
 
 :root {
-  --color-bg: #FAFAF8;
-  --color-bg-alt: #F0EFEB;
-  --color-bg-accent: #E8F4F2;
+  --color-bg: #F7F6F2;
+  --color-bg-alt: #ECEAE4;
+  --color-bg-accent: #E2F0ED;
   --color-text: #1A1A1A;
-  --color-text-secondary: #555555;
+  --color-text-secondary: #4A4A4A;
   --color-accent: #1A8A7D;
   --color-accent-dark: #14706A;
   --color-accent-light: #D4F0EC;
-  --color-border: #E0DFDB;
+  --color-border: #D8D6D0;
   --color-white: #FFFFFF;
-  --color-blockquote-bg: #F5F0E8;
+  --color-blockquote-bg: #F0EBE1;
   --color-blockquote-bar: #C9956B;
   --font-heading: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;

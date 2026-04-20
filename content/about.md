@@ -4,7 +4,7 @@ description: "ML/AI data engineer, speaker, educator. I design the language laye
 layout: "single"
 ---
 
-<img src="/img/jen-kelleman.jpg" alt="Jen Kelleman" class="about-photo">
+<img src="/img/jen-kelleman-2.jpg" alt="Jen Kelleman" class="about-photo">
 
 ## The short version
 
@@ -16,21 +16,19 @@ I also teach, speak, and write about what happens when you treat clarity as infr
 
 ## The longer version
 
-I've spent my career at the intersection of language and engineering systems — making complex things clear.
+I name things for a living. Column names, error messages, glossaries, metrics definitions — the words that sit between raw data and the people who need to use it.
 
-That started as content design: writing the words that help people use software. But the further I went, the more I realized the words aren't downstream of the system — they *are* the system. A column name is a vocabulary decision. An error message is a decision framework. A glossary is a semantic model waiting to happen.
+Most of the time, when a data product confuses someone, it's not a model problem. It's a naming problem. A documentation problem. A "what does this column actually mean?" problem. That's what I fix.
 
-Today, I work at what I believe is the most important and least-named intersection in tech: **the space between content design and data engineering.** The documentation layer. The semantic layer. The place where what data *means* and what people *think it means* either align — or quietly diverge until something breaks.
-
-At Microsoft, I design that alignment for real. I build terminology governance systems, naming conventions, content strategies for AI-assisted data products, and frameworks that help teams ship with clarity instead of chasing it after the fact.
+At Microsoft, I own that for Fabric Data Engineering. I write the terminology governance systems, the naming conventions, and the content strategies that help teams ship data products people can actually understand. I also build frameworks for AI-assisted products — making sure the content layer keeps up with what the models can do.
 
 ---
 
 ## What I believe
 
-> "The limits of my language mean the limits of my world."
+> "Human language is the new UI layer."
 >
-> **— Ludwig Wittgenstein**, *Tractatus Logico-Philosophicus* (1922)
+> **— Satya Nadella**, Microsoft CEO
 
 - **The documentation layer is infrastructure.** If your docs are wrong, your data product is wrong.
 - **Schema is language design.** Every table name, column name, and relationship is a vocabulary decision.
