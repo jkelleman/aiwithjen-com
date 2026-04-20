@@ -26,9 +26,9 @@ University courses and professional workshops at the intersection of content des
 
 ---
 
-### Consulting
+### Consulting & Advisory
 
-Terminology audits, naming system design, and data product content strategy. I'll evaluate your data product's content layer and deliver actionable recommendations.
+Terminology audits, naming system design, and data product content strategy. I'll evaluate your data product's content layer and deliver actionable recommendations. Ongoing advisory engagements are also available for teams expanding into data products and AI-assisted analytics.
 
 **Engagements include:**
 - Terminology audit + style guide
@@ -37,11 +37,7 @@ Terminology audits, naming system design, and data product content strategy. I'l
 - AI metadata quality assessment
 - Error message and empty state redesign for data products
 
----
-
-### Advising
-
-Ongoing advisory for content design teams expanding into data products, dashboards, data catalogs, semantic models, and AI-assisted analytics.
+[Get in touch →](/contact/)
 
 ---
 

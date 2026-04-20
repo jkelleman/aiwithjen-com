@@ -55,11 +55,13 @@ Drawing from years of designing the language layer of Microsoft's data platform,
 
 ### Get notified
 
-This book is in early development. If you want to know when it's available — or when early chapters are shared — leave your email and I'll keep you posted.
+This book is in early development. If you want to know when it's available — or when early chapters are shared — I'll keep you posted.
 
-<!-- TODO: Add email signup form (ConvertKit/Buttondown embed) -->
+<p style="margin-top: 1.5rem; text-align: center;">
+  <a href="mailto:jen@aiwithjen.com?subject=Full-Stack%20Clarity%20%E2%80%94%20Notify%20me&body=I%E2%80%99d%20like%20to%20know%20when%20the%20book%20is%20available." class="btn">Notify me when it's ready →</a>
+</p>
 
-[Sign up for updates →](/contact/)
+<!-- TODO: Replace mailto with ConvertKit/Buttondown embed when ready -->
 
 ---
 

@@ -12,6 +12,12 @@ Whether it's a keynote, panel, or hands-on workshop, I bring real stories from d
 
 ---
 
+## Upcoming
+
+*New events announcing soon.* [Get in touch](/contact/) if you'd like me at yours.
+
+---
+
 ## Talks
 
 ### Your AI Isn't Confident — It's Ambiguous
@@ -88,11 +94,9 @@ A hands-on workshop where participants apply content design principles to real d
 
 ---
 
----
-
-> "Bad data can lead to bad analyses, and bad analyses can lead to bad decisions."
+> "The limits of my language mean the limits of my world."
 >
-> **— The dbt Viewpoint**, dbt Labs ([source](https://docs.getdbt.com/community/resources/viewpoint))
+> **— Ludwig Wittgenstein**, *Tractatus Logico-Philosophicus* (1922)
 
 ---
 

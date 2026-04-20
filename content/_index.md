@@ -10,6 +10,8 @@ Content designer. Speaker. Educator. I help teams turn complex data systems into
 
 I'm a Principal Content Designer at Microsoft, where I own the content design for Fabric Data Engineering. I also teach, speak, and write about what happens when you treat clarity as infrastructure.
 
+*Currently: preparing for ODSC East and writing Chapter 3 of Full-Stack Clarity.*
+
 ---
 
 ### What I do

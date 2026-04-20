@@ -42,17 +42,24 @@ At Microsoft, I design that alignment for real. I build terminology governance s
 
 ## What I've built
 
+**Systems & Governance**
 - **Terminology governance systems** for Microsoft Fabric Data Engineering — canonical language for Lakehouse, Materialized Views, Monitoring, and Osmos
 - **AI-First Design Review framework** — a governance model making AI influence explicit in design reviews, pitched to leadership as a funded pilot
 - **KB audit and restructure** — 117 → 66 files, full quality governance model
 - **Content + AI Operating Model** — a 3-layer system (Explore → Iterate → Scale) turning content strategy into shared infrastructure
-- **VibeHub** — co-led a platform for democratizing UX engineering; 2,000+ projects in production, organic adoption across the design org
+
+**Workshops & Frameworks**
 - **Promptcraft** — prompt engineering workshop delivered to ~50 designers
 - **Stringweaver** — LLM governance framework for voice consistency at scale
 - **"AI or Me?" delegation framework** — systematic AI task delegation, built in a 2-hour hackathon sprint
 - **Clarity Delta** — evaluation metric for measuring AI output quality through a content design lens
 - **Full-Stack Clarity** — a university course framework teaching the intersection of content design and data engineering
-- **5+ hackathon projects** — Deaf-Led Sign Language Experiences (3 workstreams, executive award continuation), FlareIQ smart ring + AI Copilot, EduGrant Agent, and more
+
+**Hackathon Projects**
+- **VibeHub** — co-led a platform for democratizing UX engineering; 2,000+ projects in production, organic adoption across the design org
+- **Deaf-Led Sign Language Experiences** — 3 workstreams, executive award continuation
+- **FlareIQ** — smart ring + AI Copilot concept
+- **EduGrant Agent** — and more across 5+ hackathons
 
 ---
 
