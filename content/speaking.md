@@ -22,6 +22,17 @@ New events announcing soon. If you'd like me at yours:
 
 ---
 
+<div style="display: flex; align-items: center; gap: 1.5rem; background: var(--color-bg-accent); padding: 1.5rem 2rem; border-radius: 12px; margin: 2rem 0;">
+  <img src="/img/sessionize-profile.png" alt="Jen Kelleman on Sessionize" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <div>
+    <strong style="font-size: 1.1rem;">Browse my speaker profile on Sessionize</strong><br>
+    <span style="color: var(--color-text); opacity: 0.75; font-size: 0.95rem;">Talk abstracts, topics, bio, and booking — all in one place.</span><br>
+    <a href="https://sessionize.com/jen-kelleman/" target="_blank" rel="noopener" style="font-weight: 600; color: var(--color-accent);">sessionize.com/jen-kelleman →</a>
+  </div>
+</div>
+
+---
+
 ## Talks
 
 ### Your AI Isn't Confident — It's Ambiguous
