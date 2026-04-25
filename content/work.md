@@ -8,58 +8,210 @@ layout: "single"
 
 Case studies spanning terminology research, content architecture, and agentic AI systems — from naming an autonomous AI product to redesigning how engineers monitor notebook dependencies.
 
+<div class="work-filters">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="research">Research</button>
+  <button class="filter-btn" data-filter="content-architecture">Content Architecture</button>
+  <button class="filter-btn" data-filter="agentic-ai">Agentic AI</button>
+</div>
+
 <div class="case-study-grid">
 
-<div class="case-study-card">
+<div class="case-study-card" data-category="research">
+  <img src="/img/research-process.jpg" alt="Terminology research process — constraint matrix and naming candidates" class="card-hero">
+  <div class="card-body">
+    <span class="tag tag-career">Research</span>
+    <h3>Naming an Autonomous AI Product</h3>
+    <p class="card-subtitle">60+ candidates, 10 constraints, 0 clear winners — how research broke a team deadlock</p>
+    <span class="role-badge">Content Design Lead · Research Owner</span>
+    <div class="metrics-strip">
+      <span class="metric"><strong>100</strong> users studied</span>
+      <span class="metric"><strong>60+</strong> candidates</span>
+      <span class="metric"><strong>10</strong> constraints</span>
+    </div>
+    <div class="card-details">
+      <button class="details-toggle" aria-expanded="false">View details <span class="toggle-icon">+</span></button>
+      <div class="details-content" hidden>
+        <ul>
+          <li>Designed a SWIFT terminology study reaching 100 users across two personas</li>
+          <li>Proposed the winning name candidate — adopted by PM leadership</li>
+          <li>Identified a platform naming collision before public launch</li>
+          <li>Built constraint matrix balancing technical accuracy, brand risk, and user comprehension</li>
+          <li>Synthesized MVP survey evidence (N=24) to break stakeholder deadlock</li>
+        </ul>
+      </div>
+    </div>
+    <div class="tool-icons">
+      <span class="tool-icon" title="Figma">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 2H8.5A3.5 3.5 0 005 5.5 3.49 3.49 0 007.1 8.5 3.49 3.49 0 005 11.5 3.5 3.5 0 008.5 15h.5v3.5a3.5 3.5 0 107-3A3.49 3.49 0 0019 12.5a3.5 3.5 0 00-3.5-3.5H15V5.5A3.5 3.5 0 0012 2zm0 2h3a1.5 1.5 0 010 3h-3zm-3.5 0H12v3H8.5a1.5 1.5 0 010-3zM12 9h3.5a1.5 1.5 0 010 3H12zm-3.5 0H12v3H8.5a1.5 1.5 0 010-3zM9 15v2.5a1.5 1.5 0 103 0V15z"/></svg>
+      </span>
+      <span class="tool-icon" title="Microsoft Teams">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M19.2 6.4h-2.8c.5-.5.8-1.2.8-2 0-1.5-1.3-2.8-2.8-2.8S11.6 2.9 11.6 4.4c0 .8.3 1.5.8 2H9.6c-.9 0-1.6.7-1.6 1.6v5.6c0 2.6 2.1 4.8 4.8 4.8s4.8-2.1 4.8-4.8V8c.9 0 1.6-.7 1.6-1.6zm-4.8-2.8c.7 0 1.2.5 1.2 1.2S15.1 6 14.4 6s-1.2-.5-1.2-1.2.5-1.2 1.2-1.2zM16 13.6c0 1.8-1.4 3.2-3.2 3.2s-3.2-1.4-3.2-3.2V8h6.4z"/><circle cx="19.6" cy="6" r="2"/><path d="M22 9.2h-3.2v4.4c0 1.5-.5 2.8-1.3 3.9.8-.3 1.5-.8 2.1-1.5.9-1 1.4-2.3 1.4-3.6V10c.6 0 1-.4 1-1z"/></svg>
+      </span>
+      <span class="tool-icon" title="PowerPoint">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6 2a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm7 1.5L18.5 8H13zM11 10h1.5c1.9 0 3 1 3 2.5S14.4 15 12.5 15H12v2h-1zm1 1v3h.5c1.1 0 2-.4 2-1.5S13.6 11 12.5 11z"/></svg>
+      </span>
+    </div>
+    <a href="#" class="btn-gated" onclick="promptPassword(event, 'osmos')">View full case study 🔒</a>
+  </div>
+</div>
 
-### Naming an Autonomous AI Product
+<div class="case-study-card" data-category="content-architecture">
+  <img src="/img/articles-fiber.jpg" alt="Data pipeline monitoring — notebook dependency lineage" class="card-hero">
+  <div class="card-body">
+    <span class="tag tag-data">Content Architecture</span>
+    <h3>Content Design for AI Monitoring</h3>
+    <p class="card-subtitle">Redesigning the information architecture of a monitoring system for multi-notebook data pipelines</p>
+    <span class="role-badge">Content Designer · IA Lead</span>
+    <div class="metrics-strip">
+      <span class="metric"><strong>4</strong> new status values</span>
+      <span class="metric"><strong>13</strong> tooltips</span>
+      <span class="metric"><strong>6</strong>-step tour</span>
+    </div>
+    <div class="card-details">
+      <button class="details-toggle" aria-expanded="false">View details <span class="toggle-icon">+</span></button>
+      <div class="details-content" hidden>
+        <ul>
+          <li>Proposed 4 new dependency-aware status values for notebook execution chains</li>
+          <li>Revised run details pane from flat list to intent-based groups (before/after)</li>
+          <li>Designed a 6-step product tour and 13 column tooltips for first-time users</li>
+          <li>Authored error message principles and 3 revised app-level + snapshot-level messages</li>
+          <li>Created status taxonomy with hover text for dependency-aware execution states</li>
+        </ul>
+      </div>
+    </div>
+    <div class="tool-icons">
+      <span class="tool-icon" title="Figma">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 2H8.5A3.5 3.5 0 005 5.5 3.49 3.49 0 007.1 8.5 3.49 3.49 0 005 11.5 3.5 3.5 0 008.5 15h.5v3.5a3.5 3.5 0 107-3A3.49 3.49 0 0019 12.5a3.5 3.5 0 00-3.5-3.5H15V5.5A3.5 3.5 0 0012 2zm0 2h3a1.5 1.5 0 010 3h-3zm-3.5 0H12v3H8.5a1.5 1.5 0 010-3zM12 9h3.5a1.5 1.5 0 010 3H12zm-3.5 0H12v3H8.5a1.5 1.5 0 010-3zM9 15v2.5a1.5 1.5 0 103 0V15z"/></svg>
+      </span>
+      <span class="tool-icon" title="Azure DevOps">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M22 5.6v12.8l-4.8 3.6-7.2-2.6v2.6L5.2 17l12.6 1V6l-7.6-4v2.4L3 7v10l2.2 1.6V8.4z"/></svg>
+      </span>
+      <span class="tool-icon" title="Loop">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8zm0-14c-3.3 0-6 2.7-6 6s2.7 6 6 6 6-2.7 6-6-2.7-6-6-6zm0 10c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"/></svg>
+      </span>
+    </div>
+    <a href="#" class="btn-gated" onclick="promptPassword(event, 'notebook-deps')">View full case study 🔒</a>
+  </div>
+</div>
 
-**60+ candidates, 10 constraints, 0 clear winners — how research broke a team deadlock**
-
-**Role:** Content Design Lead, Research Owner
-
-- Designed a terminology study reaching 100 users across two personas
-- Proposed the winning name candidate — adopted by PM leadership
-- Identified a platform naming collision before public launch
-
-<a href="#" class="btn-secondary">View full case study →</a>
+<div class="case-study-card" data-category="agentic-ai">
+  <img src="/img/fabcon-europe.jpg" alt="Agent architecture — 7 AI agents orchestrating a career operating system" class="card-hero">
+  <div class="card-body">
+    <span class="tag tag-ai">Agentic AI</span>
+    <h3>My Career Runs on a Git Repo</h3>
+    <p class="card-subtitle">Building a personal operating system with 7 AI agents, 3 skills, and 6 MCP servers</p>
+    <span class="role-badge">Creator · Architect</span>
+    <div class="metrics-strip">
+      <span class="metric"><strong>320+</strong> files</span>
+      <span class="metric"><strong>7</strong> AI agents</span>
+      <span class="metric"><strong>6</strong> MCP servers</span>
+    </div>
+    <div class="card-details">
+      <button class="details-toggle" aria-expanded="false">View details <span class="toggle-icon">+</span></button>
+      <div class="details-content" hidden>
+        <ul>
+          <li>320+ files across career strategy, product design, and stakeholder management</li>
+          <li>7 custom AI agents with distinct voices, scopes, and safety rules</li>
+          <li>6 MCP server integrations (Azure, Work IQ, Figma, ADO, Learn, EngHub)</li>
+          <li>Automated sprint planning, meeting processing, and cross-team synthesis</li>
+          <li>Context engineering via copilot-instructions.md — the repo IS the architecture doc</li>
+        </ul>
+      </div>
+    </div>
+    <div class="tool-icons">
+      <span class="tool-icon" title="GitHub">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0012 2z"/></svg>
+      </span>
+      <span class="tool-icon" title="VS Code">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M17.5 0L7.2 9.6 2.8 6.4.5 7.5v9l2.3 1.1 4.4-3.2L17.5 24l5-2.5V2.5zM6.8 12l-3.3 2.5V9.5zm10.2 5.5L12.6 12 17 6.5z"/></svg>
+      </span>
+      <span class="tool-icon" title="PowerShell">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M2 4v16h20V4zm3.2 12.3l-.7-.7L9.3 12 4.5 8.4l.7-.7L11 12zm8.3.7h-3v-1h3z"/></svg>
+      </span>
+    </div>
+    <a href="#" class="btn-gated" onclick="promptPassword(event, 'career-os')">View full case study 🔒</a>
+  </div>
+</div>
 
 </div>
 
-<div class="case-study-card">
-
-### Content Design for AI Monitoring
-
-**Redesigning the information architecture of a monitoring system for multi-notebook data pipelines**
-
-**Role:** Content Designer, IA Lead
-
-- Proposed 4 new dependency-aware status values for notebook execution chains
-- Revised run details pane from flat list to intent-based groups (before/after)
-- Designed a 6-step product tour and 13 column tooltips for first-time users
-
-<a href="#" class="btn-secondary">View full case study →</a>
-
-</div>
-
-<div class="case-study-card">
-
-### My Career Runs on a Git Repo
-
-**Building a personal operating system with 7 AI agents, 3 skills, and 5 MCP servers**
-
-**Role:** Creator, Architect
-
-- 320+ files across career strategy, product design, and stakeholder management
-- 7 custom AI agents with distinct voices, scopes, and safety rules
-- Automated sprint planning, meeting processing, and cross-team synthesis
-
-<a href="#" class="btn-secondary">View full case study →</a>
-
-</div>
-
+<div id="password-modal" class="password-modal" hidden>
+  <div class="password-modal-backdrop" onclick="closePasswordModal()"></div>
+  <div class="password-modal-content">
+    <button class="password-modal-close" onclick="closePasswordModal()" aria-label="Close">×</button>
+    <h3>🔒 This case study is access-controlled</h3>
+    <p>Full case studies contain work from enterprise projects. Enter the password shared in my application email to continue.</p>
+    <div class="password-input-group">
+      <input type="password" id="password-input" placeholder="Enter password" autocomplete="off">
+      <button id="password-submit" onclick="checkPassword()">Unlock →</button>
+    </div>
+    <p class="password-hint">Don't have access? <a href="/contact/">Request it here →</a></p>
+    <p id="password-error" class="password-error" hidden>Incorrect password. Try again or request access.</p>
+  </div>
 </div>
 
 ---
 
 *Full case studies available upon request. [Get in touch →](/contact/)*
+
+<script>
+// Filter cards
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const filter = btn.dataset.filter;
+    document.querySelectorAll('.case-study-card').forEach(card => {
+      if (filter === 'all' || card.dataset.category === filter) {
+        card.style.opacity = '1';
+        card.style.transform = 'scale(1)';
+        card.style.display = '';
+      } else {
+        card.style.opacity = '0';
+        card.style.transform = 'scale(0.95)';
+        setTimeout(() => { card.style.display = 'none'; }, 200);
+      }
+    });
+  });
+});
+
+// Accordion toggle
+document.querySelectorAll('.details-toggle').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const content = btn.nextElementSibling;
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !expanded);
+    btn.querySelector('.toggle-icon').textContent = expanded ? '+' : '−';
+    content.hidden = expanded;
+  });
+});
+
+// Password modal
+let pendingStudy = '';
+function promptPassword(e, study) {
+  e.preventDefault();
+  pendingStudy = study;
+  document.getElementById('password-modal').hidden = false;
+  document.getElementById('password-input').value = '';
+  document.getElementById('password-error').hidden = true;
+  setTimeout(() => document.getElementById('password-input').focus(), 100);
+}
+function closePasswordModal() {
+  document.getElementById('password-modal').hidden = true;
+}
+function checkPassword() {
+  const input = document.getElementById('password-input').value;
+  // Simple client-side gate — not security, just a professional friction layer
+  if (input === 'designingAI' || input === 'portfolio2026') {
+    closePasswordModal();
+    // Future: redirect to full case study page
+    window.location.href = '/contact/?ref=' + pendingStudy;
+  } else {
+    document.getElementById('password-error').hidden = false;
+  }
+}
+document.getElementById('password-input')?.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') checkPassword();
+});
+</script>
