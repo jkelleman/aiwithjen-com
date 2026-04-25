@@ -35,7 +35,7 @@ Talks on AI systems design, semantic infrastructure, and the hidden coordination
 <div class="featured-card">
 <img src="/img/articles-fiber.jpg" alt="Fiber optic infrastructure — signal through the system" class="card-img">
 
-#### [Articles](/articles/)
+#### [Writing](/writing/)
 Writing on AI trust, semantic design, terminology governance, and what it means to design meaning — not just interfaces.
 </div>
 
@@ -47,4 +47,4 @@ Writing on AI trust, semantic design, terminology governance, and what it means 
 >
 > **— Satya Nadella**, Microsoft Build keynote ([Seattle Times](https://www.seattletimes.com/business/microsoft/microsoft-build-data-privacy-must-be-protected-ceo-satya-nadella-tells-technologists/))
 
-[Work with me →](/work-with-me/)  ·  [Book Jen to speak →](/contact/)
+[Services →](/services/)  ·  [Book Jen to speak →](/contact/)
