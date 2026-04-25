@@ -127,14 +127,14 @@
       <div class="password-modal-backdrop" onclick="closePasswordModal()"></div>
       <div class="password-modal-content">
         <button class="password-modal-close" onclick="closePasswordModal()" aria-label="Close">&times;</button>
-        <h3>This case study is access-controlled</h3>
-        <p>Full case studies contain work from enterprise projects. Enter the password shared in my application email to continue.</p>
+        <h3>Want the full story?</h3>
+        <p>This project involved enterprise work under NDA. I share the detailed version — process, artifacts, decisions — with people I'm in conversation with.</p>
         <div class="password-input-group">
-          <input type="password" id="password-input" placeholder="Enter password" autocomplete="off">
-          <button id="password-submit" onclick="checkPassword()">Unlock →</button>
+          <input type="password" id="password-input" placeholder="Access code" autocomplete="off">
+          <button id="password-submit" onclick="checkPassword()">Go</button>
         </div>
-        <p class="password-hint">Don't have access? <a href="/contact/">Request it here →</a></p>
-        <p id="password-error" class="password-error" hidden>Incorrect password. Try again or request access.</p>
+        <p id="password-error" class="password-error" hidden>That didn't work. Check the code in my email and try again.</p>
+        <p class="password-hint">No code? <a href="/contact/">Just ask →</a></p>
       </div>
     </div>
 
