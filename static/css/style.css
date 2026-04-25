@@ -583,11 +583,11 @@ td strong {
   border-radius: 20px;
 }
 
-.tag-ai { background: #E8E0F5; color: #5B3D8F; }
-.tag-data { background: #D4F0EC; color: #14706A; }
-.tag-content { background: #FDE8D0; color: #9A5B2E; }
-.tag-career { background: #FCE4EC; color: #AD1457; }
-.tag-tools { background: #E0ECF8; color: #2A5B8C; }
+.tag-ai { background: #2D2D3F; color: #C4B5FF; }
+.tag-data { background: #1E3A35; color: #6DD8C4; }
+.tag-content { background: #3A2E1E; color: #E8B87A; }
+.tag-career { background: #3A1E2E; color: #E87A9F; }
+.tag-tools { background: #1E2E3A; color: #7AB8E8; }
 
 /* --- Article tile grid --- */
 .article-grid {
@@ -617,11 +617,11 @@ td strong {
 }
 
 /* Category color bands at top of tile */
-.article-tile:has(.tag-ai)::before { background: linear-gradient(90deg, #7E57C2, #B39DDB); }
-.article-tile:has(.tag-data)::before { background: linear-gradient(90deg, #1A8A7D, #80CBC4); }
-.article-tile:has(.tag-content)::before { background: linear-gradient(90deg, #E8903E, #FFCC80); }
-.article-tile:has(.tag-career)::before { background: linear-gradient(90deg, #C2185B, #F48FB1); }
-.article-tile:has(.tag-tools)::before { background: linear-gradient(90deg, #2A5B8C, #90CAF9); }
+.article-tile:has(.tag-ai)::before { background: linear-gradient(90deg, #4A3D8F, #7B6DC8); }
+.article-tile:has(.tag-data)::before { background: linear-gradient(90deg, #1A6B5A, #3DA890); }
+.article-tile:has(.tag-content)::before { background: linear-gradient(90deg, #8B6B3A, #C4955A); }
+.article-tile:has(.tag-career)::before { background: linear-gradient(90deg, #8B3A5A, #C45A7A); }
+.article-tile:has(.tag-tools)::before { background: linear-gradient(90deg, #2A4A6B, #4A7AA0); }
 
 .article-tile .tag {
   margin: 1.25rem 1.25rem 0;
