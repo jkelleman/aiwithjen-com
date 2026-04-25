@@ -1225,9 +1225,9 @@ td strong {
 .password-modal-content {
   position: relative;
   background: var(--color-white);
-  border-radius: 16px;
-  padding: 2.5rem;
-  max-width: 440px;
+  border-radius: 12px;
+  padding: 2rem 2.25rem;
+  max-width: 400px;
   width: 90%;
   box-shadow: 0 24px 80px rgba(0, 0, 0, 0.2);
   animation: modalIn 0.2s ease;
@@ -1257,14 +1257,16 @@ td strong {
 
 .password-modal-content h3 {
   font-family: var(--font-heading);
-  font-size: 1.3rem;
-  margin: 0 0 0.75rem;
+  font-size: 1.2rem;
+  margin: 0 0 0.5rem;
+  line-height: 1.35;
 }
 
 .password-modal-content > p {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--color-text-secondary);
   margin-bottom: 1.25rem;
+  line-height: 1.55;
 }
 
 .password-input-group {
@@ -1309,9 +1311,38 @@ td strong {
 }
 
 .password-hint {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--color-text-secondary);
   margin: 0;
+}
+
+.password-hint a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.password-hint a:hover {
+  text-decoration: underline;
+}
+
+/* Override CTA styling inside password modal */
+.password-modal-content .password-hint a {
+  display: inline;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.75rem;
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 500;
+  transform: none;
+}
+
+.password-modal-content .password-hint a:hover {
+  background: none;
+  text-decoration: underline;
+  transform: none;
 }
 
 .password-error {
