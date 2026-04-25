@@ -91,7 +91,7 @@ A hands-on workshop where participants apply content design principles to real d
 | **[Microsoft Design Week](https://microsoft.design/articles/design-week-2025-shaping-the-future-of-design-at-microsoft/)** | Presenter | Microsoft (internal) |
 | **[Boston University × Data Science AI Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Speaker & mentor | Boston University |
 | **[PyLadies Boston](https://pyladies.com/)** | Workshop leader, How to Use GitHub, Git Control, and VS Code | Boston |
-| **Massachusetts AI Hub Hackathon** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
+| **[Massachusetts AI Workforce Initiative Hackathon](https://jenkelleman.medium.com/designing-ai-for-everyone-from-small-towns-to-statewide-impact-83fdf5ede34b)** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
 | **Boston Launch Event** | Microsoft Design + AI representative | Boston |
 | **Microsoft Global Hackathon (2022–2025)** | Organizer / mentor / judge, 3× executive awards, multi-year | Virtual |
 | **[BU DS+X Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Mentor & judge | Boston University |
