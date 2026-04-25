@@ -88,7 +88,7 @@ A hands-on workshop where participants apply content design principles to real d
 |-------|------|----------|
 | **[ODSC East](https://odsc.com/boston/)** | Speaker, Open Data Science Conference | Boston |
 | **[Microsoft × Red Bull Startup Innovation Labs](https://www.redbull.com/us-en/redbullbasement)** | Panelist, AI and startup innovation (alongside AMD, WHOOP, Terawatt Energy, Northeastern) | Microsoft NERD Center, Boston |
-| **Microsoft Design Week** | Presenter | Microsoft (internal) |
+| **[Microsoft Design Week](https://microsoft.design/articles/design-week-2025-shaping-the-future-of-design-at-microsoft/)** | Presenter | Microsoft (internal) |
 | **[Boston University × Data Science AI Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Speaker & mentor | Boston University |
 | **[PyLadies Boston](https://pyladies.com/)** | Workshop leader, How to Use GitHub, Git Control, and VS Code | Boston |
 | **Massachusetts AI Hub Hackathon** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
