@@ -1,5 +1,5 @@
 ---
-title: "Work with Me"
+title: "Services"
 description: "Speaking, teaching, consulting, and advising — ways to work with Jen Kelleman."
 layout: "single"
 ---

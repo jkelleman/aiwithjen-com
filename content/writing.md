@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Writing"
 description: "Writing by Jen Kelleman on AI systems design, semantic infrastructure, content design for data, and the future of clarity."
 layout: "single"
 ---
