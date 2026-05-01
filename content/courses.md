@@ -4,11 +4,11 @@ description: "Full-Stack Data Clarity and other courses from Jen Kelleman on con
 layout: "single"
 ---
 
-> "There are only two hard things in Computer Science: cache invalidation and naming things."
+> "The hardest single part of building a software system is deciding precisely what to build... No other part of the work so cripples the resulting system if done wrong."
 >
-> **— Phil Karlton** ([via Martin Fowler](https://martinfowler.com/bliki/TwoHardThings.html))
+> **— Fred Brooks**, *The Mythical Man-Month*
 
-## Learn the discipline between content design and data engineering.
+## Teach students to design the terminology, schemas, and documentation that AI systems and data teams depend on.
 
 <img src="/img/research-process.jpg" alt="Research process — from data to insight to clarity" class="full-width-img">
 
@@ -19,23 +19,23 @@ layout: "single"
 ### Full-Stack Data Clarity: Content Design Meets Data Engineering
 
 **Format:** 14-week university course (also available as 8-week intensive)
-**Prerequisites:** None technical — structured thinking and curiosity required
+**Prerequisites:** Comfort reading a spreadsheet or CSV. No SQL or programming experience required — you'll learn both in the course. Familiarity with data products (dashboards, reports, data catalogs) is helpful but not assumed.
 **Tools:** VS Code, SQL, Microsoft Fabric (free trial), dbt Cloud (free tier), GitHub
 
-The fastest-growing gap in tech isn't between code and copy. It's between what data means and what people think it means. This course teaches the discipline that bridges that gap.
+When a column called `revenue` means gross in one table and net in another, no model or dashboard built on top of it is trustworthy. Most data quality failures trace back to ambiguous naming, missing documentation, and schemas that were never designed — just accumulated. This course teaches students to find and fix those problems systematically.
 
-> "Even though it might seem simple, in reality the 'Revenue' line you're showing could mean dozens of things."
+> "Without a shared vocabulary, the data team ends up solving different problems with the same words."
 >
-> **— The dbt Viewpoint**, dbt Labs ([source](https://docs.getdbt.com/community/resources/viewpoint))
+> **— Maxime Beauchemin**, creator of Apache Airflow and Apache Superset
 
 #### What you'll learn
 
-1. Write SQL queries to explore, validate, and audit data products
-2. Design naming conventions, glossaries, and data contracts
-3. Build and document a semantic model using industry tools
-4. Apply content design frameworks to data interfaces
-5. Evaluate data quality through a content design lens
-6. Produce a portfolio-ready artifact that demonstrates both content and data skills
+1. Write SQL queries to explore, validate, and audit data products — including queries that catch naming collisions and schema drift
+2. Design naming conventions, glossaries, and data contracts using dbt's semantic layer and Microsoft Fabric
+3. Build and document a semantic model with explicit metric definitions, grain statements, and entity relationships
+4. Apply terminology research methods (SWIFT studies, constraint matrices, competitive audits) to data product interfaces
+5. Score data product quality using a rubric that evaluates naming consistency, documentation coverage, error message clarity, and AI grounding readiness
+6. Produce a portfolio-ready capstone: a fully documented, validated semantic model with a glossary, style guide, and data contract
 
 #### Who this is for
 
@@ -57,7 +57,7 @@ The fastest-growing gap in tech isn't between code and copy. It's between what d
 
 #### Capstone deliverable
 
-A portfolio artifact that includes: a documented semantic model, a glossary and style guide, validation queries proving the docs match the data, a content strategy for the data product, and a narrative reflection.
+A portfolio artifact that includes: a documented semantic model with metric definitions and grain statements, a glossary and style guide, validation queries proving the docs match the data, a data contract specifying schema expectations and ownership, and a quality scorecard applying the course rubric to the finished product.
 
 <p style="margin-top: 2rem; text-align: center;">
   <strong>Interested in bringing this course to your university or organization?</strong><br><br>
@@ -87,11 +87,17 @@ A systematic framework for evaluating any data product's content layer: naming, 
 
 ## For universities and organizations
 
-AI is changing what data literacy means. Students entering data science, analytics, and HCI programs need more than SQL and Python — they need to understand how AI systems consume, interpret, and fail on the content layer of data products. Full-Stack Data Clarity teaches that discipline: how to design terminology, documentation, and semantic structures that are legible to both humans and machines.
+Most data science curricula teach students to query, model, and visualize — but not to name, document, or govern what they build. The result: graduates ship dashboards with ambiguous metrics, pipelines with undocumented columns, and semantic models that break when a second team tries to use them. Full-Stack Data Clarity fills that gap by teaching students to design terminology, write data contracts, and build documentation that holds up under AI grounding, cross-team reuse, and production-scale maintenance.
 
-If you run a program in data science, information science, HCI, digital media, or business analytics, this course fills a gap no existing curriculum covers — the intersection of content design, data engineering, and AI system evaluation.
+This course fits programs in data science, information science, HCI, analytics engineering, or business analytics — anywhere students work with data products and need to make them understandable to both humans and machines.
 
 I also offer custom corporate workshops tailored to your team's data products and terminology challenges.
+
+---
+
+## About the instructor
+
+**Jen Kelleman** holds an MS in Computer Science (Tufts) and an MS in Data Science (Carnegie Mellon). She's a Principal Content Designer at Microsoft, where she owns terminology governance for Fabric Data Engineering — Lakehouse, Materialized Views, Monitoring, and Osmos. She was a teaching assistant for Microsoft Azure Data University, has delivered prompt engineering workshops to ~50 designers, and has designed evaluation rubrics used across four product areas. She holds the AI-900 (Azure AI Fundamentals) certification and is pursuing Azure Data Engineer Associate.
 
 <p style="margin-top: 2rem; text-align: center;">
   <a href="/contact/" class="btn">Let's talk →</a>

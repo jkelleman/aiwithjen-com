@@ -35,7 +35,7 @@ Talks on AI systems design, semantic infrastructure, and the hidden coordination
 <div class="featured-card">
 <img src="/img/articles-fiber.jpg" alt="Fiber optic infrastructure — signal through the system" class="card-img">
 
-#### [Writing](/writing/)
+#### [Articles](/articles/)
 Writing on AI trust, semantic design, terminology governance, and what it means to design meaning — not just interfaces.
 </div>
 
@@ -43,8 +43,8 @@ Writing on AI trust, semantic design, terminology governance, and what it means 
 
 ---
 
-> "We need to ask ourselves not only what computers can do, but what computers should do."
+> "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise."
 >
-> **— Satya Nadella**, Microsoft Build keynote ([Seattle Times](https://www.seattletimes.com/business/microsoft/microsoft-build-data-privacy-must-be-protected-ceo-satya-nadella-tells-technologists/))
+> **— Edsger W. Dijkstra**, Turing Award winner
 
-[Services →](/services/)  ·  [Book Jen to speak →](/contact/)
+[Work with me →](/work-with-me/)  ·  [Book Jen to speak →](/contact/)

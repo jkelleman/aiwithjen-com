@@ -4,6 +4,10 @@ description: "Speaking, teaching, consulting, and advising — ways to work with
 layout: "single"
 ---
 
+> "A schema is a theory about the world, and like all theories, it can be wrong."
+>
+> **— Joe Hellerstein**, UC Berkeley, database systems researcher
+
 ## I work with data teams, design orgs, and universities to close the gap between what data means and what people think it means.
 
 Every engagement starts with a conversation. Here's how we can work together.
@@ -27,6 +31,10 @@ University courses and professional workshops at the intersection of content des
 ---
 
 ### Consulting & Advisory
+
+> "AI is the top of a pyramid of needs. Don't jump to it before you've built the foundation — data literacy, reliable infrastructure, and clean data."
+>
+> **— Monica Rogati**, former VP of Data at Jawbone
 
 Terminology audits, naming system design, and data product content strategy. I'll evaluate your data product's content layer and deliver actionable recommendations. Ongoing advisory engagements are also available for teams expanding into data products and AI-assisted analytics.
 
