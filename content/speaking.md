@@ -8,7 +8,7 @@ layout: "single"
 
 ## I speak about the systems that make AI trustworthy, data products understandable, and teams more effective.
 
-Whether it's a keynote, panel, or hands-on workshop, I bring real stories from designing AI-powered data infrastructure at Microsoft — not theory, not hype, not slides full of acronyms.
+Whether it's a keynote, panel, or hands-on workshop, I bring real stories from designing AI-powered data products at Microsoft. No theory. No hype. No slides full of acronyms.
 
 ---
 
@@ -88,12 +88,12 @@ A hands-on workshop where participants apply content design principles to real d
 |-------|------|----------|
 | **[ODSC East](https://odsc.com/boston/)** | Speaker, Open Data Science Conference | Boston |
 | **[Microsoft × Red Bull Startup Innovation Labs](https://www.redbull.com/us-en/redbullbasement)** | Panelist, AI and startup innovation (alongside AMD, WHOOP, Terawatt Energy, Northeastern) | Microsoft NERD Center, Boston |
-| **[Microsoft Design Week](https://microsoft.design/articles/design-week-2025-shaping-the-future-of-design-at-microsoft/)** | Presenter | Microsoft (internal) |
+| **Microsoft Design Week** | Presenter | Microsoft (internal) |
 | **[Boston University × Data Science AI Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Speaker & mentor | Boston University |
 | **[PyLadies Boston](https://pyladies.com/)** | Workshop leader, How to Use GitHub, Git Control, and VS Code | Boston |
-| **[Massachusetts AI Workforce Initiative Hackathon](https://jenkelleman.medium.com/designing-ai-for-everyone-from-small-towns-to-statewide-impact-83fdf5ede34b)** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
+| **Massachusetts AI Hub Hackathon** | Mentor & author, wrote blog article + facilitation script that made the event repeatable | Boston |
 | **Boston Launch Event** | Microsoft Design + AI representative | Boston |
-| **Microsoft Global Hackathon (2022–2025)** | Organizer / mentor / judge, 3× executive awards, multi-year | Virtual |
+| **Microsoft Global Hackathon (2022–present)** | Organizer / mentor / judge, 3× executive awards, multi-year | Virtual |
 | **[BU DS+X Hackathon](https://www.bu.edu/cds-faculty/data-science-hackathon/)** | Mentor & judge | Boston University |
 
 ---
@@ -111,7 +111,7 @@ A hands-on workshop where participants apply content design principles to real d
 
 > "The limits of my language mean the limits of my world."
 >
-> **— Ludwig Wittgenstein**, *Tractatus Logico-Philosophicus* (1922)
+> **— Ludwig Wittgenstein**, philosopher of language and logic
 
 ---
 

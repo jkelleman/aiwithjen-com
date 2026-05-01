@@ -6,7 +6,7 @@ layout: "home"
 
 ## I design the language layer of data infrastructure.
 
-ML/AI data engineer. Speaker. Educator. I help teams turn complex data systems into things people can actually understand — and AI systems into things people can actually trust.
+ML/AI data engineer. Speaker. Educator. I help teams turn complex data systems into things people can actually understand. I also help AI systems become things people can actually trust.
 
 I'm a Principal Content Designer at Microsoft, where I own the content design for Fabric Data Engineering. I also teach, speak, and write about what happens when you treat clarity as infrastructure.
 
@@ -36,7 +36,7 @@ Talks on AI systems design, semantic infrastructure, and the hidden coordination
 <img src="/img/articles-fiber.jpg" alt="Fiber optic infrastructure — signal through the system" class="card-img">
 
 #### [Articles](/articles/)
-Writing on AI trust, semantic design, terminology governance, and what it means to design meaning — not just interfaces.
+Writing on AI trust, semantic design, terminology governance, and what it means to design meaning.
 </div>
 
 </div>

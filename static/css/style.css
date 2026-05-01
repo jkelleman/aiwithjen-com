@@ -583,11 +583,11 @@ td strong {
   border-radius: 20px;
 }
 
-.tag-ai { background: #2D2D3F; color: #C4B5FF; }
-.tag-data { background: #1E3A35; color: #6DD8C4; }
-.tag-content { background: #3A2E1E; color: #E8B87A; }
-.tag-career { background: #3A1E2E; color: #E87A9F; }
-.tag-tools { background: #1E2E3A; color: #7AB8E8; }
+.tag-ai { background: #F5F0FF; color: #5B3D8F; border: 1px solid #D4C6F0; }
+.tag-data { background: #EDFAF7; color: #14706A; border: 1px solid #B2E0D8; }
+.tag-content { background: #FFF6ED; color: #9A5B2E; border: 1px solid #F0D8B8; }
+.tag-career { background: #FFF0F4; color: #AD1457; border: 1px solid #F0C0D0; }
+.tag-tools { background: #F0F5FB; color: #2A5B8C; border: 1px solid #C0D8F0; }
 
 /* --- Article tile grid --- */
 .article-grid {

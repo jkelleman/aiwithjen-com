@@ -6,7 +6,7 @@ layout: "single"
 
 ## Writing on AI trust, semantic design, and the systems that make meaning durable.
 
-I write about what happens when content design meets data engineering — and why that intersection matters more than most people realize.
+I write about what happens when content design meets data engineering. That intersection matters more than most people realize.
 
 ---
 
@@ -22,9 +22,9 @@ I write about what happens when content design meets data engineering — and wh
 
 <div class="article-grid">
 
-<a href="https://jenkelleman.medium.com/scaling-voice-how-i-built-an-ai-agent-to-think-like-a-content-designer-5238d2ee725f" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/the-frame-is-the-feature-designing-with-ai-not-for-it" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-ai">AI Systems</span>
-  <h3>Scaling voice: How I built an AI agent to think like a content designer</h3>
+  <h3>The frame is the feature: Designing with AI, not for it</h3>
   <p>Inspired by Maeda's computation theory and LLM orchestration, I built an AI agent to scale content quality without losing voice.</p>
   <span class="tile-meta">Jul 2025 · Medium</span>
 </a>
@@ -36,14 +36,14 @@ I write about what happens when content design meets data engineering — and wh
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/designing-ai-for-everyone-from-small-towns-to-statewide-impact-83fdf5ede34b" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/designing-ai-for-everyone-from-small-towns-to-statewide-impact" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-career">Career + Craft</span>
   <h3>Designing AI for everyone: From small towns to statewide impact</h3>
   <p>Growing up in a town with limited tech access shaped my belief that talent is everywhere — but opportunity isn't.</p>
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/strong-useful-beautiful-designing-a-new-way-of-getting-data-4577ff9ba50f" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/strong-useful-beautiful-designing-a-new-way-of-getting-data" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-content">Content Design</span>
   <h3>Strong, useful, beautiful: Designing a new way of getting data</h3>
   <p>What does good design look like in the world of data integration? At Microsoft Fabric, we reimagined the most essential flow.</p>
@@ -56,35 +56,35 @@ I write about what happens when content design meets data engineering — and wh
 
 <div class="article-grid">
 
-<a href="https://jenkelleman.medium.com/from-data-warehouses-to-lakehouses-the-evolution-of-data-architecture-0cb539e7ee96" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/from-data-warehouses-to-lakehouses-the-evolution-of-data-architecture" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-data">Data Infrastructure</span>
   <h3>From data warehouses to lakehouses: The evolution of data architecture</h3>
   <p>A new chapter is being written: one of harmony and a unified platform. Welcome to the age of the data lakehouse.</p>
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/beyond-control-designing-ai-systems-that-flow-not-force-8e448a0a40f9" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/beyond-control-designing-ai-systems-that-flow-not-force" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-ai">AI Systems</span>
   <h3>Beyond control: Designing AI systems that flow, not force</h3>
   <p>Lessons from jellyfish on emergence, adaptability, and the art of letting go in product design.</p>
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/ai-doesnt-just-need-data-it-needs-discernment-1f566888bf35" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/ai-doesnt-just-need-data-it-needs-discernment" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-ai">AI Systems</span>
   <h3>AI doesn't just need data. It needs discernment.</h3>
   <p>Why content designers are essential to building responsible, resonant AI.</p>
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/the-poetry-of-data-finding-meaning-in-the-noise-d056697bfcfd" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/the-poetry-of-data-finding-meaning-in-the-noise" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-career">Career + Craft</span>
   <h3>The poetry of data: Finding meaning in the noise</h3>
   <p>A reflection on how data becomes insight, how content becomes connection, and how even the most technical work can hold space for poetry.</p>
   <span class="tile-meta">Aug 2025 · Medium</span>
 </a>
 
-<a href="https://jenkelleman.medium.com/designing-for-judgment-what-ai-cant-see-yet-46497aa88d19" target="_blank" rel="noopener" class="article-tile">
+<a href="https://jenkelleman.medium.com/designing-for-judgment-what-ai-cant-see-yet" target="_blank" rel="noopener" class="article-tile">
   <span class="tag tag-ai">AI Systems</span>
   <h3>Designing for judgment: What AI can't see (yet)</h3>
   <p>Why editorial thinking is the missing layer in AI systems and how content designers can help build it.</p>
@@ -133,4 +133,4 @@ I write about what happens when content design meets data engineering — and wh
 
 <!-- TODO: Add newsletter signup (ConvertKit/Buttondown) -->
 
-New articles land here first. [Get in touch](/contact/) if you'd like to be notified when new pieces publish.
+New articles land here first. [Reach out](/contact/) to get notified when new pieces publish.

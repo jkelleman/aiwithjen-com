@@ -63,7 +63,3 @@ Case studies spanning terminology research, content architecture, and agentic AI
 </div>
 
 </div>
-
----
-
-*Full case studies available upon request. [Get in touch →](/contact/)*

@@ -24,9 +24,9 @@ layout: "single"
 
 Data teams build pipelines. Content designers write the words. But the fastest-growing gap in tech isn't between code and copy. It's between what data *means* and what people *think it means*.
 
-This book argues that content design and data engineering are the same discipline at different layers of abstraction. The glossary is a semantic model. The error message is a decision framework. The column name is a vocabulary decision. And the documentation layer isn't downstream of infrastructure — it *is* infrastructure.
+This book argues that content design and data engineering are the same discipline at different layers of abstraction. The glossary is a semantic model. The error message is a decision framework. The column name is a vocabulary decision. And the documentation layer isn't downstream of the system. It *is* the system.
 
-Drawing from years of designing the language layer of Microsoft's data platform, mentoring builders at hackathons, and teaching at the intersection of content and data, *Full-Stack Data Clarity* gives practitioners a framework for designing meaning into data systems — not as an afterthought, but as a core engineering practice.
+Drawing from years of designing the language layer of Microsoft's data platform, mentoring builders at hackathons, and teaching at the intersection of content and data, *Full-Stack Data Clarity* gives practitioners a framework for designing meaning into data systems. Not as an afterthought. As a core engineering practice.
 
 ---
 
@@ -55,7 +55,7 @@ Drawing from years of designing the language layer of Microsoft's data platform,
 
 ### Get notified
 
-This book is in early development. If you want to know when it's available — or when early chapters are shared — I'll keep you posted.
+This book is in early development. If you want to know when it's available or when early chapters are shared, I'll keep you posted.
 
 <p style="margin-top: 1.5rem; text-align: center;">
   <a href="mailto:jen@aiwithjen.com?subject=Full-Stack%20Clarity%20%E2%80%94%20Notify%20me&body=I%E2%80%99d%20like%20to%20know%20when%20the%20book%20is%20available." class="btn">Notify me when it's ready →</a>
